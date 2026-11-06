@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meliusevents.com/sitemap.xml
